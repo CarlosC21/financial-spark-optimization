@@ -1,0 +1,26 @@
+# Downloaded datasets
+transactions_data.csv
+Transactions_data.csv
+users_data.csv
+train_fraud_labels.json
+cards_dat.csv
+mcc_codes.json
+data/
+
+# Generated Spark output
+output/
+spark-warehouse/
+metastore_db/
+derby.log
+*.parquet
+
+# Python environments and cache
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Logs and OS files
+*.log
+.DS_Store
+Thumbs.db
